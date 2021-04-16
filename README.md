@@ -1,1 +1,4 @@
 # Mask-Detection
+Due to this covid-19. Our lives has changed completely. We are leading a new normal. And while going out wearing mask is compulsory. But many people are not wearing masks properly. Due to this problem many people will be in danger. Machine learning can solve this problem. So we used concepts of machine learning and created mask detector and we can implement this mask detector in the places where the movement of people is high like shopping malls,medical stores, temples etc. In this scenario, there is no efficient face mask detection applications which are now in high demand in densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure stopping the spread of COVID-19.
+
+The proposed project is on Mask detection. Here we used Convolutional neural networks(CNN) from deep learning and used MobileNetv2 architecture. And we used some modules like Tensorflow, Keras, Opencv.
